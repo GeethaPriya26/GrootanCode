@@ -1,5 +1,6 @@
 [
-   {
+ 
+{
 	"id": 1,
  	"name"  : "Venkatesh",
 	"age"     : 21,
@@ -7,15 +8,15 @@
 	"firstname": "Venkatesh",
 	"lastname" : "S",
 	"more": 
-	        {
-	              "address_line1": "2/30, Anna Colony",
-	               "address_line2": "GM Nagar",
-	               "address_line3": "Chennai",
-	               "phone": "9875669789"  
-         	}
+	 {
+	    "address_line1": "2/30, Anna Colony",
+	    "address_line2": "GM Nagar",
+	    "address_line3": "Chennai",
+	    "phone": "9875669789"  
+         }
 	
-    },
-    {
+ },
+ {
 	"id": 2,
  	"name"  : "Surenraj",
 	"age"     : 19,
@@ -23,15 +24,15 @@
 	"firstname": "Surenraj",
 	"lastname" : "G",
 	"more":
-	       {
-	              "address_line1": "30/30, GH Colony",
-	               "address_line2": "Lotus Nagar",
-	               "address_line3": "Salem",
-	               "phone": "9080076855"  
-         	}
+        {
+	     "address_line1": "30/30, GH Colony",
+	     "address_line2": "Lotus Nagar",
+	     "address_line3": "Salem",
+	     "phone": "9080076855"  
+        }
 	
-    },
-    {
+  },
+  {
 	"id": 3,
  	"name"  : "Dheena",
 	"age"     : 31,
@@ -39,15 +40,15 @@
 	"firstname": "Dheena",
 	"lastname" : "P",
 	"more":
-	       {
-	              "address_line1": "20,  DS Apartment",
-	               "address_line2": "Salem Main road",
-	               "address_line3": "Erode",
-	               "phone": "9877776569"  
-         	}
+        {
+	    "address_line1": "20,  DS Apartment",
+	    "address_line2": "Salem Main road",
+	    "address_line3": "Erode",
+	    "phone": "9877776569"  
+         }
 	
-    },
-    {
+  },
+  {
 	"id": 4,
  	"name"  : "sekar",
 	"age"     : 29,
@@ -55,15 +56,15 @@
 	"firstname": "sekar",
 	"lastname" : "P",
 	"more":
-	        {
-	              "address_line1": "20,  SD Apartment",
-	               "address_line2": "Main road",
-	               "address_line3": "Ooty",
-	               "phone": "9888886569"  
-         	}
+	{
+	    "address_line1": "20,  SD Apartment",
+	    "address_line2": "Main road",
+	    "address_line3": "Ooty",
+	    "phone": "9888886569"  
+        }
 	
-    },
-    {
+  },
+  {
 	"id": 5,
  	"name"  : "Kumar",
 	"age"     : 35,
@@ -71,15 +72,15 @@
 	"firstname": "Kumar",
 	"lastname" : "P",
 	"more":
-	        {
-	              "address_line1": "20, Apartment Nehru",
-	               "address_line2": "Beach road",
-	               "address_line3": "Chennai",
-	               "phone": "9866666569"  
-         	}
+        {
+	    "address_line1": "20, Apartment Nehru",
+	    "address_line2": "Beach road",
+	    "address_line3": "Chennai",
+	    "phone": "9866666569"  
+         }
 	
-    },
-    {
+  },
+  {
 	"id": 6,
  	"name"  : "Ganesh",
 	"age"     : 23,
@@ -87,15 +88,15 @@
 	"firstname": "Ganesh",
 	"lastname" : "M",
 	"more":
-	       {
-	              "address_line1": "20,  Anna Nagar",
-	               "address_line2": "Kanchepuram Main road",
-	               "address_line3": "Chennai",
-	               "phone": "9834674339"  
-         	}
+	{
+	      "address_line1": "20,  Anna Nagar",
+	      "address_line2": "Kanchepuram Main road",
+	      "address_line3": "Chennai",
+	      "phone": "9834674339"  
+         }
 	
-    },
-    {
+  },
+  {
 	"id": 7,
  	"name"  : "Sudeep",
 	"age"     : 21,
@@ -103,15 +104,15 @@
 	"firstname": "Sudeep",
 	"lastname" : "H",
 	"more":
-	        {
+         {
 	              "address_line1": "2, MGR nagar",
 	               "address_line2": "Salem Main road",
 	               "address_line3": "Thoothukudi",
 	               "phone": "9822335659"  
-         	}
+        }
 	
-    },
-    {
+  },
+  {
 	"id": 8,
  	"name"  : "Senthil",
 	"age"     : 35,
@@ -119,15 +120,15 @@
 	"firstname": "Senthil",
 	"lastname" : "C",
 	"more":
-	        {
-	              "address_line1": "29, NM Apartment",
-	               "address_line2": "ERODE Main road",
-	               "address_line3": "Salem",
-	               "phone": "9456789569"  
-         	}
+         {
+	      "address_line1": "29, NM Apartment",
+	      "address_line2": "ERODE Main road",
+	      "address_line3": "Salem",
+	      "phone": "9456789569"  
+         }
 	
-    },
-    {
+  },
+  {
 	"id": 9,
  	"name"  : "Suresh",
 	"age"     : 25,
@@ -135,15 +136,15 @@
 	"firstname": "Suresh",
 	"lastname" : "L",
 	"more":
-	        {
-	              "address_line1": "40, CV Apartment",
-	               "address_line2": "GH Main road",
-	               "address_line3": "Perundurai",
-	               "phone": "87654367439"  
-         	}
+	 {
+	      "address_line1": "40, CV Apartment",
+	      "address_line2": "GH Main road",
+	      "address_line3": "Perundurai",
+	      "phone": "87654367439"  
+         }
 	
-    },
-    {
+  },
+  {
 	"id": 10,
  	"name"  : "Ravi",
 	"age"     : 30,
@@ -151,12 +152,12 @@
 	"firstname": "Ravi",
 	"lastname" : "N",
 	"more":
-	        {
-	              "address_line1": "34, AGS nagar",
-	               "address_line2": "Chennai Main road",
-	               "address_line3": "Salem",
-	               "phone": "9096749539"  
-         	}
+	 {
+	      "address_line1": "34, AGS nagar",
+	      "address_line2": "Chennai Main road",
+	      "address_line3": "Salem",
+	      "phone": "9096749539"  
+         }
 	
-    },
+  },
 ]
