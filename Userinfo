@@ -1,27 +1,27 @@
-[8:22 pm, 04/07/2021] Navrin Jummana😍💕: [
+[
    {
 	"id": 1,
- 	"name"  : "AjithKumar",
+ 	"name"  : "Venkatesh",
 	"age"     : 21,
-	"dob"    : "20-10-2000",
-	"firstname": "AjithKumar",
-	"lastname" : "P",
+	"dob"    : "07-09-2000",
+	"firstname": "Venkatesh",
+	"lastname" : "S",
 	"more": 
 	{
 	              "address_line1": "2/30, Anna Colony",
 	               "address_line2": "GM Nagar",
 	               "address_line3": "Chennai",
-	               "phone": "9877869469"  
+	               "phone": "9875669789"  
          	}
 	
 	},
 	{
 	"id": 2,
- 	"name"  : "Haridharan",
+ 	"name"  : "Surenraj",
 	"age"     : 19,
-	"dob"    : "10-11-2012",
-	"firstname": "Haridharan",
-	"lastname" : "A",
+	"dob"    : "17-01-2002",
+	"firstname": "Surenraj",
+	"lastname" : "G",
 	"more":
 	{
 	              "address_line1": "30/30, GH Colony",
@@ -33,10 +33,10 @@
 	},
 	{
 	"id": 3,
- 	"name"  : "Dhanasekar",
-	"age"     : 25,
-	"dob"    : "02-09-1990",
-	"firstname": "Dhanasekar",
+ 	"name"  : "Dheena",
+	"age"     : 31,
+	"dob"    : "06-07-1990",
+	"firstname": "Dheena",
 	"lastname" : "P",
 	"more":
 	{
@@ -65,10 +65,10 @@
 	},
 {
 	"id": 5,
- 	"name"  : "Ajith",
+ 	"name"  : "Kumar",
 	"age"     : 35,
-	"dob"    : "03-09-1990",
-	"firstname": "Ajith",
+	"dob"    : "03-09-1985",
+	"firstname": "Kumar",
 	"lastname" : "P",
 	"more":
 	{
@@ -81,11 +81,11 @@
 	},
 {
 	"id": 6,
- 	"name"  : "Grootan",
-	"age"     : 15,
-	"dob"    : "02-10-1990",
-	"firstname": "Grootan",
-	"lastname" : "M/s",
+ 	"name"  : "Ganesh",
+	"age"     : 23,
+	"dob"    : "02-10-1998",
+	"firstname": "Ganesh",
+	"lastname" : "M",
 	"more":
 	{
 	              "address_line1": "20,  Anna Nagar",
@@ -97,11 +97,11 @@
 	},
 {
 	"id": 7,
- 	"name"  : "Sandeep",
-	"age"     : 10,
-	"dob"    : "01-10-1990",
-	"firstname": "Sandeep",
-	"lastname" : "K",
+ 	"name"  : "Sudeep",
+	"age"     : 21,
+	"dob"    : "01-10-1999",
+	"firstname": "Sudeep",
+	"lastname" : "H",
 	"more":
 	{
 	              "address_line1": "2, MGR nagar",
@@ -113,11 +113,11 @@
 	},
 	{
 	"id": 8,
- 	"name"  : "Rahul",
+ 	"name"  : "Senthil",
 	"age"     : 35,
-	"dob"    : "13-10-1990",
-	"firstname": "Rahul",
-	"lastname" : "M",
+	"dob"    : "13-10-1985",
+	"firstname": "Senthil",
+	"lastname" : "C",
 	"more":
 	{
 	              "address_line1": "29, NM Apartment",
@@ -129,11 +129,11 @@
 	},
 {
 	"id": 9,
- 	"name"  : "Sankar",
-	"age"     : 90,
-	"dob"    : "19-09-1990",
-	"firstname": "Sankar",
-	"lastname" : "N",
+ 	"name"  : "Suresh",
+	"age"     : 25,
+	"dob"    : "19-09-1996",
+	"firstname": "Suresh",
+	"lastname" : "L",
 	"more":
 	{
 	              "address_line1": "40, CV Apartment",
@@ -144,11 +144,11 @@
 	
 	},{
 	"id": 10,
- 	"name"  : "Hari",
-	"age"     : 95,
+ 	"name"  : "Ravi",
+	"age"     : 30,
 	"dob"    : "23-09-1990",
-	"firstname": "Hari",
-	"lastname" : "L",
+	"firstname": "Ravi",
+	"lastname" : "N",
 	"more":
 	{
 	              "address_line1": "34, AGS nagar",
@@ -158,36 +158,5 @@
          	}
 	
 	},
-{
-	"id": 11,
- 	"name"  : "Eeashi",
-	"age"     : 23,
-	"dob"    : "30-09-1990",
-	"firstname": "Eeashi",
-	"lastname" : "U",
-	"more":
-	{
-	              "address_line1": "34, Nethaji Street",
-	               "address_line2": "Ooty Main road",
-	               "address_line3": "Erode",
-	               "phone": "9877776569"  
-         	}
-	
-	},
-{
-	"id": 12,
- 	"name"  : "Naveen",
-	"age"     : 55,
-	"dob"    : "15-12-1990",
-	"firstname": "Naveen",
-	"lastname" : "A",
-	"more":
-	{
-	              "address_line1": "90, Gandhi Road",
-	               "address_line2": "Erode Main Road",
-	               "address_line3": "Kovai",
-	               "phone": "9877776569"  
-         	}
-	
-	}
+
 ]
